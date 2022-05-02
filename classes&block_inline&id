@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+.colour1{
+ color:grey;
+ text-align:center;
+}
+.colour2{
+ color:orange;
+ text-align:center;
+}
+#hello{
+ color:green;
+ background-color:blue;
+ font-size:40px;
+ text-align:center;
+}
+</style>
+</head>
+<body>
+<p><a href="#c4">jump to chapter 4</a></p>
+<p style="color:red">hello world</p>
+<div class="colour1">hello world<span style="color:pink"> gud morning</span></div>
+<div class="colour1">hello world<span class="colour2"> gud morning</span></div>
+<h id=hello>id demo</h>
+<h1 id="c4">chapter4</h1>
+<p>this is chapter4</p>
+</body>
+</html>
